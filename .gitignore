@@ -1,0 +1,6 @@
+# Build Artifacts
+*.o
+proxy
+
+# CLion
+.idea
