@@ -4,3 +4,6 @@ proxy
 
 # CLion
 .idea
+
+# CMake
+cmake-build-*
