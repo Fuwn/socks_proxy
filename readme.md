@@ -4,7 +4,7 @@ Supports socks4, socks4a and socks5 protocols without binding and udp stuff.
 Can be used as example how to write your own. 
 
 #### Build status and CI pipeline link
-[![Build Status](https://travis-ci.org/fgssfgss/socks_proxy.svg?branch=master)](https://travis-ci.org/fgssfgss/socks_proxy)
+[![Build Status](https://travis-ci.org/Fuwn/socks_proxy.svg?branch=master)](https://travis-ci.org/Fuwn/socks_proxy)
 
 #### Proto
 [Socks5 proto](https://tools.ietf.org/html/rfc1928)
