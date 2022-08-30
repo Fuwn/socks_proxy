@@ -1,0 +1,9 @@
+# Build Artifacts
+*.o
+proxy
+
+# CLion
+.idea
+
+# CMake
+cmake-build-*

@@ -1,0 +1,9 @@
+services:
+  socks_proxy:
+    ports:
+      - "1080:1080"
+    environment:
+      - "AUTHTYPE=2"
+      - "USERNAME=fuwn"
+      - "PASSWORD=test123"
+    image: "fuwn/socks_proxy:latest"
